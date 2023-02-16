@@ -5,15 +5,13 @@
  <br/>
  <br/>
   
-####  :wave: Welcome my github profile !
-
- <br/>
- <br/>
-  
-####  :clipboard: Once I've Used 
+###  :wave: Welcome my github profile !
+#### 안녕하세요 백엔드 신입 개발자 민태희입니다.
   
  <br/>
  <br/>
+  
+###  :clipboard: Once I've Used 
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -29,8 +27,11 @@
  
  <br/>
  <br/>
+ <br/>
+ <br/>
+  
 
-#### :pencil2: Study log
+### :pencil2: Study log
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeheeMin&show_icons=true&theme=swift)
    
