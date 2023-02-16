@@ -7,12 +7,12 @@
   
 ####  :wave: Welcome my github profile !
 
-  
  <br/>
  <br/>
   
 ####  :clipboard: Once I've Used 
   
+ <br/>
  <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -27,15 +27,15 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
-   <br/>
-   <br/>
+ <br/>
+ <br/>
 
 #### :pencil2: Study log
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeheeMin&show_icons=true&theme=swift)
    
-   <br/>
-   <br/>
+ <br/>
+ <br/>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeheeMin&count_bg=%237E9AE5&title_bg=%23555555&icon=&icon_color=%23D7D7D7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
